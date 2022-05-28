@@ -6,7 +6,7 @@ This script is auto program downloader for newly formatted PC
 
 ## Drivers
 
-Unfortunately I couldn't add the automatic driver installer because everyone's video card brand and model is different, maybe I will add it in the future.
+Unfortunately I couldn't add the automatic driver installer because everyone's GPU brand and model is different, maybe I will add it in the future.
 
   
 ## Copyright
