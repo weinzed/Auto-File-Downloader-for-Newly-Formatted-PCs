@@ -46,7 +46,7 @@ goto :glsor
 
 :glsor
 cls
-echo If you want to download game launchers (Epic Games ve Steam)
+echo If you want to download game launchers (Epic Games and Steam)
 echo Press 1
 echo If u won't press 2
 set choice=
@@ -85,5 +85,5 @@ echo Script successfully finished.
 echo You need to run all setup's.
 echo Folder will opened in 5 secs.
 timeout /t 5 /nobreak > nul
-start "" "explorer" %userprofile%\Desktop\INDIRILDI
+start "" "explorer" %userprofile%\Desktop\Downloaded
 exit
