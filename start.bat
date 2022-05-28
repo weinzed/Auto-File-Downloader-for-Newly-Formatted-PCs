@@ -29,7 +29,7 @@ timeout /t 1 /nobreak > nul
 cls
 
 echo Downloading WinRAR
-curl -LJOk "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611tr.exe"
+curl -LJOk "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611.exe"
 cls
 echo WinRAR downloaded.
 timeout /t 1 /nobreak > nul
